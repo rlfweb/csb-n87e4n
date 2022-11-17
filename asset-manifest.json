@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://rlfweb.github.io/csb-n87e4n/static/css/main.653bd98d.chunk.css",
+    "main.js": "https://rlfweb.github.io/csb-n87e4n/static/js/main.e7b35ce9.chunk.js",
+    "main.js.map": "https://rlfweb.github.io/csb-n87e4n/static/js/main.e7b35ce9.chunk.js.map",
+    "runtime-main.js": "https://rlfweb.github.io/csb-n87e4n/static/js/runtime-main.30922dc6.js",
+    "runtime-main.js.map": "https://rlfweb.github.io/csb-n87e4n/static/js/runtime-main.30922dc6.js.map",
+    "static/js/2.d34e9697.chunk.js": "https://rlfweb.github.io/csb-n87e4n/static/js/2.d34e9697.chunk.js",
+    "static/js/2.d34e9697.chunk.js.map": "https://rlfweb.github.io/csb-n87e4n/static/js/2.d34e9697.chunk.js.map",
+    "index.html": "https://rlfweb.github.io/csb-n87e4n/index.html",
+    "static/css/main.653bd98d.chunk.css.map": "https://rlfweb.github.io/csb-n87e4n/static/css/main.653bd98d.chunk.css.map",
+    "static/js/2.d34e9697.chunk.js.LICENSE.txt": "https://rlfweb.github.io/csb-n87e4n/static/js/2.d34e9697.chunk.js.LICENSE.txt",
+    "static/media/image1.808833ab.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image1.808833ab.jpeg",
+    "static/media/image2.d6e2aa99.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image2.d6e2aa99.jpeg",
+    "static/media/image3.68c54325.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image3.68c54325.jpeg",
+    "static/media/image4.a508b42c.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image4.a508b42c.jpeg",
+    "static/media/image5.b53cf11e.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image5.b53cf11e.jpeg",
+    "static/media/image6.03053c00.jpeg": "https://rlfweb.github.io/csb-n87e4n/static/media/image6.03053c00.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30922dc6.js",
+    "static/js/2.d34e9697.chunk.js",
+    "static/css/main.653bd98d.chunk.css",
+    "static/js/main.e7b35ce9.chunk.js"
+  ]
+}
